@@ -13,4 +13,4 @@ This field is to up some challenges and projects about Python
 ## Personal notes
 
 Date: 10/24/2024
-I cannot imagine what I will achieve tomorrow. Honestly, I did not imagine I will create something like this yesterdat and I cannot wait to see what we can achieve tomorrow. Without any doubt, wonderful things. I am sure of that.
+I cannot imagine what I will achieve tomorrow. Honestly, I did not imagine I would create something like this yesterdat and I cannot wait to see what we can achieve tomorrow. Without any doubt, wonderful things. I am sure of that.
